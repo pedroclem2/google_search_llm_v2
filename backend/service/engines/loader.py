@@ -24,7 +24,7 @@ async def load_and_transform(search_query):
     content_files = []
 
     for url in urls:
-        logger.debug(f"Fetched URL: {url}")
+        # logger.debug(f"Fetched URL: {url}")
         try:
             loader = AsyncHtmlLoader([url])
             docs = loader.load() 
@@ -37,7 +37,7 @@ async def load_and_transform(search_query):
                 filename = os.path.join(raw_files_dir, f"output_{urls.index(url)}.txt")
                 with open(filename, 'w') as file:
                     file.write(doc_transformed[0].page_content)
-                logger.info(f"Saved transformed content to {filename}")
+                # logger.info(f"Saved transformed content to {filename}")
                 content_files.append(filename)
         except Exception as e:
             logger.error(f"Failed to process URL {url}: {str(e)}")

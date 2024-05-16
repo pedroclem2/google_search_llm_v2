@@ -1,1 +1,1 @@
-__all__ = ["chat_interaction", "url_fetcher"]
+__all__ = ["chat_interaction", "url_fetcher", "image_processor"]

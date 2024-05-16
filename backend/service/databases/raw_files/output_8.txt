@@ -310,10 +310,10 @@ Back
 
       * Torbreck ‘The Steading’ 2022
 
-    * First Release Thymiopoulos 2019 
+    * First Release Garmon and San Roman 2021 
     * ## First Release
 
-      * Thymiopoulos 2019
+      * Garmon and San Roman 2021
 
     * En Primeur Bordeaux 2023: The top wines 
     * ## En Primeur
@@ -377,40 +377,40 @@ Back
 
 Back Spring
 
-    * Travels in regional France 
+    * Travels in Regional France 
     * ## 
 
-      * Travels in regional France
+      * Travels in Regional France
 
     * ## 
 
-      * Sauvignon blanc
-      * Sparkling for spring
-      * Summer whites and rose
-      * Spring and summer mixed cases
+      * Sauvignon Blanc
+      * Sparkling For Spring
+      * Summer Whites And Rose
+      * Spring And Summer Mixed Cases
       * Bag-In-Box
-      * Fresh whites and bubbles
-      * Al fresco whites
-      * Provence rose
+      * Fresh Whites And Bubbles
+      * Al Fresco Whites
+      * Provence Rose
 
     * ## 
 
       * Anyday Italy
       * Greece
-      * Rioja selection
-      * Easy summer reds
-      * Barbecue reds
-      * Dining table reds
+      * Rioja Selection
+      * Easy Summer Reds
+      * Barbecue Reds
+      * Dining Table Reds
       * Beaujolais 2022
       * Chillable Reds
 
     * ## Explore
 
-      * Year-round value for our members
+      * Year-round Value For Our Members
       * The List Edit
       * 150th Anniversary
       * Tour de France
-      * Getting to know Rioja
+      * Getting to Know Rioja
 
     * Close Menu
 
@@ -498,15 +498,15 @@ Back Popular
 
 Back Mixed Cases
 
-    * Mixed Cases Feature New Vintage Rose Case 
+    * Mixed Cases Feature Rose Case 
     * ## Mixed Cases Feature
 
-      * New Vintage Rose Case
+      * Rose Case
 
     * ## 
 
       * All Mixed Wine Cases
-      * Mixed Cases For Spring
+      * Spring And Summer Mixed Cases
       * Rose Mixed Cases
       * White Wine Mixed Cases
       * Red Wine Mixed Cases
@@ -524,10 +524,10 @@ Back Mixed Cases
 
 Back Own-label
 
-    * Featured wine Magnum of 150th Anniversary Mendoza Malbec 2007 
+    * Featured wine The Society's 150th Anniversary Moulin-a-Vent 2019 
     * ## Featured wine
 
-      * Magnum of 150th Anniversary Mendoza Malbec 2007
+      * The Society's 150th Anniversary Moulin-a-Vent 2019
 
     * ## Discover Own-label
 
@@ -637,7 +637,7 @@ Filters (0)
 Sort By  Relevance Price Low - High Price High - Low Popular New Product A-Z
 Product Z-A
 
-##  Showing 1 - 90 of 152 products
+##  Showing 1 - 90 of 153 products
 
 List View  Grid View  Download format: Download PDF  Download CSV
 
@@ -653,7 +653,7 @@ Clear All
 Filter by Country
 
   * Australia (20)
-  * France (92)
+  * France (93)
   * South Africa (33)
   * USA (7)
 
@@ -663,7 +663,7 @@ Filter by Region
 
   * Bordeaux (62)
   * California (7)
-  * Rhone (30)
+  * Rhone (31)
   * South Australia (10)
   * Victoria (3)
   * Western Australia (7)
@@ -676,7 +676,7 @@ Filter by Price
   * £5-£9.99 (5)
   * £10-£14.99 (17)
   * £15-£24.99 (44)
-  * £25-£49.99 (54)
+  * £25-£49.99 (55)
   * £50 and over (32)
   * View all 
 
@@ -689,7 +689,7 @@ Max Price
 Filter by Fullness/Sweetness
 
   * Light to medium-bodied (5)
-  * Medium-bodied (73)
+  * Medium-bodied (74)
   * Full-bodied (68)
   * Very full and rich (1)
 
@@ -700,15 +700,16 @@ Filter by Grape
   * Cabernet Merlot (49)
   * Cabernet Sauvignon (51)
   * Cabernet Shiraz (1)
-  * Syrah/Shiraz (49)
+  * Syrah/Shiraz (50)
 
 ##  Filter by Stock status
 
 Filter by Stock status
 
-  * Due in (3)
-  * In stock (141)
-  * Low stock (8)
+  * Due in (4)
+  * In stock (139)
+  * Low stock (9)
+  * Out of stock (1)
 
 ##  Filter by Alcohol level %
 
@@ -721,7 +722,7 @@ Max
 Filter by Oak influence
 
   * no oak influence (25)
-  * oak used but not v. noticeable (115)
+  * oak used but not v. noticeable (116)
   * bouquet/flavour marked by oak (9)
 
 ##  Filter by Vintage
@@ -828,14 +829,14 @@ Filter by Sub-region
   * Bourg, Blaye, Premier Cotes (1)
   * Cru Classe Medoc, Graves (20)
   * Medoc, Graves (41)
-  * RHONE - Northern Rhone (30)
+  * RHONE - Northern Rhone (31)
 
 ##  Filter by Bottle size (CL)
 
 Filter by Bottle size (CL)
 
   * 75cl (Magnum) (1)
-  * 75cl (151)
+  * 75cl (152)
 
 ##  Filter by Closure type
 
@@ -843,7 +844,7 @@ Filter by Closure type
 
   * Cork, agglomerate (3)
   * Cork, diam (12)
-  * Cork, natural (116)
+  * Cork, natural (117)
   * Cork, plastic (1)
   * Screwcap (17)
   * Twin top (1)
@@ -853,7 +854,7 @@ View all filters
 
 Reset filters  Apply
 
-##  Showing 1 - 90 of 152 products
+##  Showing 1 - 90 of 153 products
 
 ##  The Wine Society’s Generation Series Haut-Medoc 2019
 
@@ -1032,6 +1033,41 @@ Bottle Case of 12
 
 Add
 
+##  Victory Hotel Australian Shiraz-Cabernet Sauvignon 2022
+
+Australia  14% vol
+
+Syrah/Shiraz
+
+3.8 star rating 5 Reviews
+
+A smooth, easy-drinking blend with juicy notes of plum, blackberry and fig.
+F...
+
+Price:£6.95 Bottle
+
+Price:£41.50 Case of 6
+
+Buy Item
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 6
+
+Add
+
+Buy Item
+
+### Victory Hotel Australian Shiraz-Cabernet Sauvignon 2022
+
+In stock
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 6
+
+Add
+
 Sale
 
 ##  The Blind Spot Grampians Syrah 2022
@@ -1071,50 +1107,13 @@ Add
 
 Low stock
 
-##  Victory Hotel Australian Shiraz-Cabernet Sauvignon 2022
-
-Australia  14% vol
-
-Syrah/Shiraz
-
-3.8 star rating 5 Reviews
-
-A smooth, easy-drinking blend with juicy notes of plum, blackberry and fig.
-F...
-
-Price:£6.95 Bottle
-
-Price:£41.50 Case of 6
-
-Buy Item
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 6
-
-Add
-
-Buy Item
-
-### Victory Hotel Australian Shiraz-Cabernet Sauvignon 2022
-
-In stock
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 6
-
-Add
-
-Low stock
-
 ##  The Society's Exhibition Haut-Medoc 2016
 
 France  13.5% vol
 
 Cabernet Merlot
 
-4 star rating 19 Reviews
+4.05 star rating 20 Reviews
 
 Ripe, polished and beautifully balanced Bordeaux, with attractive notes of
 da...
@@ -1178,41 +1177,6 @@ Bottle Case of 12
 
 Add
 
-##  The Society's 150th Anniversary Margaret River Red 2017
-
-Australia  12.5% vol
-
-Cabernet Merlot
-
-3.75 star rating 4 Reviews
-
-Following a run of small vintages, we were delighted when 2017 offered us
-the...
-
-Price:£29.00 Bottle
-
-Price:£174.00 Case of 6
-
-Buy Item
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 6
-
-Add
-
-Buy Item
-
-### The Society's 150th Anniversary Margaret River Red 2017
-
-In stock
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 6
-
-Add
-
 ##  Chateau de Tourteyron, Medoc 2018
 
 France  13% vol
@@ -1248,20 +1212,20 @@ Bottle Case of 12
 
 Add
 
-##  Xanadu Fusion Margaret River Cabernet Sauvignon 2020
+##  The Society's 150th Anniversary Margaret River Red 2017
 
-Australia  14% vol
+Australia  12.5% vol
 
-Cabernet Sauvignon
+Cabernet Merlot
 
-5 star rating 2 Reviews
+3.75 star rating 4 Reviews
 
-Luxurious, plush and fruit-forward, with cherry, red and blackcurrant and
-bay...
+Following a run of small vintages, we were delighted when 2017 offered us
+the...
 
-Price:£10.95 Bottle
+Price:£29.00 Bottle
 
-Price:£65.50 Case of 6
+Price:£174.00 Case of 6
 
 Buy Item
 
@@ -1273,7 +1237,7 @@ Add
 
 Buy Item
 
-### Xanadu Fusion Margaret River Cabernet Sauvignon 2020
+### The Society's 150th Anniversary Margaret River Red 2017
 
 In stock
 
@@ -1353,76 +1317,6 @@ Bottle Case of 6
 
 Add
 
-##  The Society's 150th Anniversary Margaux 2015
-
-France  13% vol
-
-Cabernet Merlot
-
-3.5 star rating 2 Reviews
-
-When it came to a Margaux for our anniversary celebrations, we were
-delighted...
-
-Price:£38.00 Bottle
-
-Price:£228.00 Case of 6
-
-Buy Item
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 6
-
-Add
-
-Buy Item
-
-### The Society's 150th Anniversary Margaux 2015
-
-In stock
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 6
-
-Add
-
-##  The Society's 150th Anniversary Barossa Valley Shiraz 2018
-
-Australia  14% vol
-
-Syrah/Shiraz
-
-3.75 star rating 4 Reviews
-
-For our 150th anniversary we have worked with one of the great names of
-Austr...
-
-Price:£25.00 Bottle
-
-Price:£300.00 Case of 12
-
-Buy Item
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 12
-
-Add
-
-Buy Item
-
-### The Society's 150th Anniversary Barossa Valley Shiraz 2018
-
-In stock
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 12
-
-Add
-
 ##  The Society’s Exhibition Victoria Shiraz 2021
 
 Australia  14% vol
@@ -1449,43 +1343,6 @@ Add
 Buy Item
 
 ### The Society’s Exhibition Victoria Shiraz 2021
-
-In stock
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 6
-
-Add
-
-Sale
-
-##  Minimalist Connect the Dots Syrah, Western Cape 2021
-
-South Africa  13.5% vol
-
-Syrah/Shiraz
-
-0 star rating 0 Reviews
-
-Finding great syrah vineyards in the right place is increasingly challenging
-...
-
-Original price: £20.00 Current price:£16.00 Bottle
-
-Original price: £120.00 Current price:£96.00 Case of 6
-
-Buy Item
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 6
-
-Add
-
-Buy Item
-
-### Minimalist Connect the Dots Syrah, Western Cape 2021
 
 In stock
 
@@ -1530,6 +1387,113 @@ Bottle Case of 12
 
 Add
 
+##  The Society's 150th Anniversary Barossa Valley Shiraz 2018
+
+Australia  14% vol
+
+Syrah/Shiraz
+
+3.75 star rating 4 Reviews
+
+For our 150th anniversary we have worked with one of the great names of
+Austr...
+
+Price:£25.00 Bottle
+
+Price:£300.00 Case of 12
+
+Buy Item
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 12
+
+Add
+
+Buy Item
+
+### The Society's 150th Anniversary Barossa Valley Shiraz 2018
+
+In stock
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 12
+
+Add
+
+Sale
+
+##  Minimalist Connect the Dots Syrah, Western Cape 2021
+
+South Africa  13.5% vol
+
+Syrah/Shiraz
+
+0 star rating 0 Reviews
+
+Finding great syrah vineyards in the right place is increasingly challenging
+...
+
+Original price: £20.00 Current price:£16.00 Bottle
+
+Original price: £120.00 Current price:£96.00 Case of 6
+
+Buy Item
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 6
+
+Add
+
+Buy Item
+
+### Minimalist Connect the Dots Syrah, Western Cape 2021
+
+In stock
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 6
+
+Add
+
+##  The Society's 150th Anniversary Margaux 2015
+
+France  13% vol
+
+Cabernet Merlot
+
+3.5 star rating 2 Reviews
+
+When it came to a Margaux for our anniversary celebrations, we were
+delighted...
+
+Price:£38.00 Bottle
+
+Price:£228.00 Case of 6
+
+Buy Item
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 6
+
+Add
+
+Buy Item
+
+### The Society's 150th Anniversary Margaux 2015
+
+In stock
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 6
+
+Add
+
 ##  Chateau l'Evasion, Medoc 2020
 
 France  13% vol
@@ -1556,76 +1520,6 @@ Add
 Buy Item
 
 ### Chateau l'Evasion, Medoc 2020
-
-In stock
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 12
-
-Add
-
-##  The Society's 150th Anniversary Stellenbosch Cabernet Sauvignon 2015
-
-South Africa  14.5% vol
-
-Cabernet Sauvignon
-
-5 star rating 1 Reviews
-
-This richly concentrated cabernet to celebrate our anniversary comes from
-Kan...
-
-Price:£35.00 Bottle
-
-Price:£210.00 Case of 6
-
-Buy Item
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 6
-
-Add
-
-Buy Item
-
-### The Society's 150th Anniversary Stellenbosch Cabernet Sauvignon 2015
-
-In stock
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 6
-
-Add
-
-##  Chateau Monconseil Gazin, Blaye Cotes de Bordeaux 2020
-
-France  13% vol
-
-Cabernet Merlot
-
-3.33333 star rating 3 Reviews
-
-A scented, well-balanced claret made by the highly regarded Jean-Michel
-Baude...
-
-Price:£10.50 Bottle
-
-Price:£126.00 Case of 12
-
-Buy Item
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 12
-
-Add
-
-Buy Item
-
-### Chateau Monconseil Gazin, Blaye Cotes de Bordeaux 2020
 
 In stock
 
@@ -1670,6 +1564,41 @@ Bottle Case of 6
 
 Add
 
+##  Chateau Monconseil Gazin, Blaye Cotes de Bordeaux 2020
+
+France  13% vol
+
+Cabernet Merlot
+
+3.33333 star rating 3 Reviews
+
+A scented, well-balanced claret made by the highly regarded Jean-Michel
+Baude...
+
+Price:£10.50 Bottle
+
+Price:£126.00 Case of 12
+
+Buy Item
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 12
+
+Add
+
+Buy Item
+
+### Chateau Monconseil Gazin, Blaye Cotes de Bordeaux 2020
+
+In stock
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 12
+
+Add
+
 ##  Chateau Beaumont, Haut-Medoc 2020
 
 France  13.5% vol
@@ -1696,6 +1625,76 @@ Add
 Buy Item
 
 ### Chateau Beaumont, Haut-Medoc 2020
+
+In stock
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 12
+
+Add
+
+##  The Society's 150th Anniversary Stellenbosch Cabernet Sauvignon 2015
+
+South Africa  14.5% vol
+
+Cabernet Sauvignon
+
+5 star rating 1 Reviews
+
+This richly concentrated cabernet to celebrate our anniversary comes from
+Kan...
+
+Price:£35.00 Bottle
+
+Price:£210.00 Case of 6
+
+Buy Item
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 6
+
+Add
+
+Buy Item
+
+### The Society's 150th Anniversary Stellenbosch Cabernet Sauvignon 2015
+
+In stock
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 6
+
+Add
+
+##  Chateau Pierbone, Haut-Medoc 2010
+
+France  13.5% vol
+
+Cabernet Merlot
+
+3.10417 star rating 48 Reviews
+
+From the superlative 2010 vintage, this is a perfectly ready-for-drinking
+ble...
+
+Price:£14.95 Bottle
+
+Price:£179.00 Case of 12
+
+Buy Item
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 12
+
+Add
+
+Buy Item
+
+### Chateau Pierbone, Haut-Medoc 2010
 
 In stock
 
@@ -1740,41 +1739,6 @@ Bottle Case of 12
 
 Add
 
-##  Chateau Pierbone, Haut-Medoc 2010
-
-France  13.5% vol
-
-Cabernet Merlot
-
-3.10417 star rating 48 Reviews
-
-From the superlative 2010 vintage, this is a perfectly ready-for-drinking
-ble...
-
-Price:£14.95 Bottle
-
-Price:£179.00 Case of 12
-
-Buy Item
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 12
-
-Add
-
-Buy Item
-
-### Chateau Pierbone, Haut-Medoc 2010
-
-In stock
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 12
-
-Add
-
 ##  Pedroncelli Dry Creek Valley Sonoma County Cabernet Sauvignon 2020
 
 USA  14.5% vol
@@ -1801,76 +1765,6 @@ Add
 Buy Item
 
 ### Pedroncelli Dry Creek Valley Sonoma County Cabernet Sauvignon 2020
-
-In stock
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 12
-
-Add
-
-##  Pauletts Polish Hill River Cabernet Sauvignon Merlot 2019
-
-Australia  14.5% vol
-
-Cabernet Merlot
-
-4 star rating 2 Reviews
-
-South Australia's Clare Valley can produce wonderful full-bodied, generous
-an...
-
-Price:£12.95 Bottle
-
-Price:£155.00 Case of 12
-
-Buy Item
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 12
-
-Add
-
-Buy Item
-
-### Pauletts Polish Hill River Cabernet Sauvignon Merlot 2019
-
-In stock
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 12
-
-Add
-
-##  Chateau Pierbone, Haut-Medoc 2015
-
-France  13% vol
-
-Cabernet Merlot
-
-4 star rating 1 Reviews
-
-The 2015 is a perfumed and enticing, medium-bodied cabernet-dominant blend
-wi...
-
-Price:£15.50 Bottle
-
-Price:£186.00 Case of 12
-
-Buy Item
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 12
-
-Add
-
-Buy Item
-
-### Chateau Pierbone, Haut-Medoc 2015
 
 In stock
 
@@ -1917,20 +1811,20 @@ Bottle Case of 6
 
 Add
 
-##  Chateau Charmail, Haut-Medoc 2014
+##  Chateau Pierbone, Haut-Medoc 2015
 
-France  13.5% vol
+France  13% vol
 
 Cabernet Merlot
 
-4.14286 star rating 7 Reviews
+4 star rating 1 Reviews
 
-A blend of 38% cabernet sauvignon, 36% merlot and more or less equal
-proporti...
+The 2015 is a perfumed and enticing, medium-bodied cabernet-dominant blend
+wi...
 
-Price:£20.00 Bottle
+Price:£15.50 Bottle
 
-Price:£240.00 Case of 12
+Price:£186.00 Case of 12
 
 Buy Item
 
@@ -1942,7 +1836,7 @@ Add
 
 Buy Item
 
-### Chateau Charmail, Haut-Medoc 2014
+### Chateau Pierbone, Haut-Medoc 2015
 
 In stock
 
@@ -1952,7 +1846,42 @@ Bottle Case of 12
 
 Add
 
-Sale
+##  Pauletts Polish Hill River Cabernet Sauvignon Merlot 2019
+
+Australia  14.5% vol
+
+Cabernet Merlot
+
+4 star rating 2 Reviews
+
+South Australia's Clare Valley can produce wonderful full-bodied, generous
+an...
+
+Price:£12.95 Bottle
+
+Price:£155.00 Case of 12
+
+Buy Item
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 12
+
+Add
+
+Buy Item
+
+### Pauletts Polish Hill River Cabernet Sauvignon Merlot 2019
+
+In stock
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 12
+
+Add
+
+Low stock
 
 ##  Bleasdale Bremerview Langhorne Creek Shiraz 2020
 
@@ -1980,286 +1909,6 @@ Add
 Buy Item
 
 ### Bleasdale Bremerview Langhorne Creek Shiraz 2020
-
-In stock
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 6
-
-Add
-
-##  Aslina by Ntsiki Biyela Cabernet Sauvignon, Stellenbosch 2020
-
-South Africa  14.5% vol
-
-Cabernet Sauvignon
-
-3.75 star rating 4 Reviews
-
-Ntsiki’s Western Cape blend has thrashed some impressive rivals in a
-previous...
-
-Price:£17.00 Bottle
-
-Price:£102.00 Case of 6
-
-Buy Item
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 6
-
-Add
-
-Buy Item
-
-### Aslina by Ntsiki Biyela Cabernet Sauvignon, Stellenbosch 2020
-
-In stock
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 6
-
-Add
-
-##  Clos Floridene Rouge, Graves 2016
-
-France  13% vol
-
-Cabernet Merlot
-
-0 star rating 0 Reviews
-
-A pure and vibrant blend of 73% cabernet sauvignon and the balance merlot.
-In...
-
-Price:£19.00 Bottle
-
-Price:£114.00 Case of 6
-
-Buy Item
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 6
-
-Add
-
-Buy Item
-
-### Clos Floridene Rouge, Graves 2016
-
-In stock
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 6
-
-Add
-
-##  Saint-Joseph Offerus Selections, Jean-Louis Chave 2019
-
-France  14.5% vol
-
-Syrah/Shiraz
-
-4 star rating 1 Reviews
-
-Polished, expressive and refined Saint-Joseph coming from different plots
-fro...
-
-Price:£22.00 Bottle
-
-Price:£132.00 Case of 6
-
-Buy Item
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 6
-
-Add
-
-Buy Item
-
-### Saint-Joseph Offerus Selections, Jean-Louis Chave 2019
-
-In stock
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 6
-
-Add
-
-##  Cornas Les Empreintes, Domaine Durand 2017
-
-France  14.5% vol
-
-Syrah/Shiraz
-
-5 star rating 2 Reviews
-
-This Rhône blend comes from good plots in the best parts of Cornas
-(including...
-
-Price:£30.00 Bottle
-
-Price:£180.00 Case of 6
-
-Buy Item
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 6
-
-Add
-
-Buy Item
-
-### Cornas Les Empreintes, Domaine Durand 2017
-
-In stock
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 6
-
-Add
-
-##  Chateau La Garde Rouge, Pessac-Leognan 2016
-
-France  14% vol
-
-Cabernet Merlot
-
-0 star rating 0 Reviews
-
-With deep colour and appealingly scented dark fruit bouquet, this is a
-classy...
-
-Price:£26.00 Bottle
-
-Price:£312.00 Case of 12
-
-Buy Item
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 12
-
-Add
-
-Buy Item
-
-### Chateau La Garde Rouge, Pessac-Leognan 2016
-
-In stock
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 12
-
-Add
-
-##  Lone Birch Yakima Valley Cabernet Sauvignon 2022
-
-USA  14% vol
-
-Cabernet Sauvignon
-
-0 star rating 0 Reviews
-
-Washington State in the north-west of the US is making some great cabernets,
-...
-
-Price:£11.50 Bottle
-
-Price:£138.00 Case of 12
-
-Buy Item
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 12
-
-Add
-
-Buy Item
-
-### Lone Birch Yakima Valley Cabernet Sauvignon 2022
-
-In stock
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 12
-
-Add
-
-##  Chateau Poujeaux, Moulis 2016
-
-France  13.5% vol
-
-Cabernet Merlot
-
-5 star rating 1 Reviews
-
-A higher proportion of cabernet sauvignon (60%) in this year’s blend thanks
-t...
-
-Price:£30.00 Bottle
-
-Price:£180.00 Case of 6
-
-Buy Item
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 6
-
-Add
-
-Buy Item
-
-### Chateau Poujeaux, Moulis 2016
-
-In stock
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 6
-
-Add
-
-##  Chateau Dutruch Grand Poujeaux, Moulis-en-Medoc 2015
-
-France  13% vol
-
-Cabernet Merlot
-
-3.17241 star rating 29 Reviews
-
-A classy claret from a fine vintage, structured but appetising with deep
-colo...
-
-Price:£19.00 Bottle
-
-Price:£114.00 Case of 6
-
-Buy Item
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 6
-
-Add
-
-Buy Item
-
-### Chateau Dutruch Grand Poujeaux, Moulis-en-Medoc 2015
 
 In stock
 
@@ -2306,6 +1955,111 @@ Bottle Case of 12
 
 Add
 
+##  Chateau Charmail, Haut-Medoc 2014
+
+France  13.5% vol
+
+Cabernet Merlot
+
+4.14286 star rating 7 Reviews
+
+A blend of 38% cabernet sauvignon, 36% merlot and more or less equal
+proporti...
+
+Price:£20.00 Bottle
+
+Price:£240.00 Case of 12
+
+Buy Item
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 12
+
+Add
+
+Buy Item
+
+### Chateau Charmail, Haut-Medoc 2014
+
+In stock
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 12
+
+Add
+
+##  Aslina by Ntsiki Biyela Cabernet Sauvignon, Stellenbosch 2020
+
+South Africa  14.5% vol
+
+Cabernet Sauvignon
+
+3.75 star rating 4 Reviews
+
+Ntsiki’s Western Cape blend has thrashed some impressive rivals in a
+previous...
+
+Price:£17.00 Bottle
+
+Price:£102.00 Case of 6
+
+Buy Item
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 6
+
+Add
+
+Buy Item
+
+### Aslina by Ntsiki Biyela Cabernet Sauvignon, Stellenbosch 2020
+
+In stock
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 6
+
+Add
+
+##  Saint-Joseph Offerus Selections, Jean-Louis Chave 2019
+
+France  14.5% vol
+
+Syrah/Shiraz
+
+4 star rating 1 Reviews
+
+Polished, expressive and refined Saint-Joseph coming from different plots
+fro...
+
+Price:£22.00 Bottle
+
+Price:£132.00 Case of 6
+
+Buy Item
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 6
+
+Add
+
+Buy Item
+
+### Saint-Joseph Offerus Selections, Jean-Louis Chave 2019
+
+In stock
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 6
+
+Add
+
 New
 
 ##  Vergelegen Estate Reserve Cabernet Sauvignon, Stellenbosch 2019
@@ -2334,6 +2088,41 @@ Add
 Buy Item
 
 ### Vergelegen Estate Reserve Cabernet Sauvignon, Stellenbosch 2019
+
+In stock
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 6
+
+Add
+
+##  Clos Floridene Rouge, Graves 2016
+
+France  13% vol
+
+Cabernet Merlot
+
+0 star rating 0 Reviews
+
+A pure and vibrant blend of 73% cabernet sauvignon and the balance merlot.
+In...
+
+Price:£19.00 Bottle
+
+Price:£114.00 Case of 6
+
+Buy Item
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 6
+
+Add
+
+Buy Item
+
+### Clos Floridene Rouge, Graves 2016
 
 In stock
 
@@ -2378,40 +2167,38 @@ Bottle Case of 12
 
 Add
 
-New Vintage
+##  Chateau Dutruch Grand Poujeaux, Moulis-en-Medoc 2015
 
-##  The Society's Exhibition Margaret River Cabernet Sauvignon 2022
+France  13% vol
 
-Australia  14% vol
+Cabernet Merlot
 
-Cabernet Sauvignon
+3.17241 star rating 29 Reviews
 
-0 star rating 0 Reviews
+A classy claret from a fine vintage, structured but appetising with deep
+colo...
 
-Margaret River is home to some of the world's finest cabernet sauvignon so
-it...
+Price:£19.00 Bottle
 
-Price:£17.00 Bottle
-
-Price:£204.00 Case of 12
+Price:£114.00 Case of 6
 
 Buy Item
 
 1  2  3  4  5  6  7  8  9  10  11  12  Other
 
-Bottle Case of 12
+Bottle Case of 6
 
 Add
 
 Buy Item
 
-### The Society's Exhibition Margaret River Cabernet Sauvignon 2022
+### Chateau Dutruch Grand Poujeaux, Moulis-en-Medoc 2015
 
 In stock
 
 1  2  3  4  5  6  7  8  9  10  11  12  Other
 
-Bottle Case of 12
+Bottle Case of 6
 
 Add
 
@@ -2452,6 +2239,220 @@ Bottle Case of 6
 
 Add
 
+##  Lone Birch Yakima Valley Cabernet Sauvignon 2022
+
+USA  14% vol
+
+Cabernet Sauvignon
+
+0 star rating 0 Reviews
+
+Washington State in the north-west of the US is making some great cabernets,
+...
+
+Price:£11.50 Bottle
+
+Price:£138.00 Case of 12
+
+Buy Item
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 12
+
+Add
+
+Buy Item
+
+### Lone Birch Yakima Valley Cabernet Sauvignon 2022
+
+In stock
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 12
+
+Add
+
+##  Cornas Les Empreintes, Domaine Durand 2017
+
+France  14.5% vol
+
+Syrah/Shiraz
+
+5 star rating 2 Reviews
+
+This Rhône blend comes from good plots in the best parts of Cornas
+(including...
+
+Price:£30.00 Bottle
+
+Price:£180.00 Case of 6
+
+Buy Item
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 6
+
+Add
+
+Buy Item
+
+### Cornas Les Empreintes, Domaine Durand 2017
+
+In stock
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 6
+
+Add
+
+##  Chateau Poujeaux, Moulis 2016
+
+France  13.5% vol
+
+Cabernet Merlot
+
+5 star rating 1 Reviews
+
+A higher proportion of cabernet sauvignon (60%) in this year’s blend thanks
+t...
+
+Price:£30.00 Bottle
+
+Price:£180.00 Case of 6
+
+Buy Item
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 6
+
+Add
+
+Buy Item
+
+### Chateau Poujeaux, Moulis 2016
+
+In stock
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 6
+
+Add
+
+New Vintage
+
+##  The Society's Exhibition Margaret River Cabernet Sauvignon 2022
+
+Australia  14% vol
+
+Cabernet Sauvignon
+
+0 star rating 0 Reviews
+
+Margaret River is home to some of the world's finest cabernet sauvignon so
+it...
+
+Price:£17.00 Bottle
+
+Price:£204.00 Case of 12
+
+Buy Item
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 12
+
+Add
+
+Buy Item
+
+### The Society's Exhibition Margaret River Cabernet Sauvignon 2022
+
+In stock
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 12
+
+Add
+
+New Vintage
+
+##  Glenelly Estate Reserve, Stellenbosch 2017
+
+South Africa  14.5% vol
+
+Cabernet Sauvignon
+
+0 star rating 0 Reviews
+
+Madame May de Lencquesaing left Château Pichon Comtesse in Bordeaux for this
+...
+
+Price:£18.00 Bottle
+
+Price:£108.00 Case of 6
+
+Buy Item
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 6
+
+Add
+
+Buy Item
+
+### Glenelly Estate Reserve, Stellenbosch 2017
+
+In stock
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 6
+
+Add
+
+##  Chateau La Garde Rouge, Pessac-Leognan 2016
+
+France  14% vol
+
+Cabernet Merlot
+
+0 star rating 0 Reviews
+
+With deep colour and appealingly scented dark fruit bouquet, this is a
+classy...
+
+Price:£26.00 Bottle
+
+Price:£312.00 Case of 12
+
+Buy Item
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 12
+
+Add
+
+Buy Item
+
+### Chateau La Garde Rouge, Pessac-Leognan 2016
+
+In stock
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 12
+
+Add
+
 ##  Chateau Batailley, Pauillac 2015
 
 France  13.5% vol
@@ -2478,111 +2479,6 @@ Add
 Buy Item
 
 ### Chateau Batailley, Pauillac 2015
-
-In stock
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 6
-
-Add
-
-##  Chateau Bel Orme Tronquoy de Lalande, Haut-Medoc 2014
-
-France  13.5% vol
-
-Cabernet Merlot
-
-0 star rating 0 Reviews
-
-A classic northern Médoc claret from a little known château with vineyards
-cl...
-
-Price:£19.00 Bottle
-
-Price:£228.00 Case of 12
-
-Buy Item
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 12
-
-Add
-
-Buy Item
-
-### Chateau Bel Orme Tronquoy de Lalande, Haut-Medoc 2014
-
-In stock
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 12
-
-Add
-
-##  Chateau Le Boscq, Saint-Estephe 2016
-
-France  13.5% vol
-
-Cabernet Merlot
-
-0 star rating 0 Reviews
-
-The northern Médoc was particularly successful in 2016 and winemaker
-Frédéric...
-
-Price:£29.50 Bottle
-
-Price:£177.00 Case of 6
-
-Buy Item
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 6
-
-Add
-
-Buy Item
-
-### Chateau Le Boscq, Saint-Estephe 2016
-
-In stock
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 6
-
-Add
-
-##  Reyneke Organic Syrah, Stellenbosch 2020
-
-South Africa  13% vol
-
-Syrah/Shiraz
-
-4.5 star rating 2 Reviews
-
-Reyneke are global leaders in sustainable viticulture and their organic
-syrah...
-
-Price:£14.95 Bottle
-
-Price:£89.50 Case of 6
-
-Buy Item
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 6
-
-Add
-
-Buy Item
-
-### Reyneke Organic Syrah, Stellenbosch 2020
 
 In stock
 
@@ -2627,76 +2523,6 @@ Bottle Case of 6
 
 Add
 
-##  Crozes-Hermitage, Domaine des Alexandrins 2016
-
-France  13.5% vol
-
-Syrah/Shiraz
-
-0 star rating 0 Reviews
-
-Elegance and finesse are uppermost in this syrah from the northern Rhône.
-201...
-
-Price:£22.00 Bottle
-
-Price:£132.00 Case of 6
-
-Buy Item
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 6
-
-Add
-
-Buy Item
-
-### Crozes-Hermitage, Domaine des Alexandrins 2016
-
-In stock
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 6
-
-Add
-
-##  Crozes-Hermitage, Domaine Pochon 2021
-
-France  12.5% vol
-
-Syrah/Shiraz
-
-0 star rating 0 Reviews
-
-Etienne Pochon makes a style of Crozes that is fruity and uncomplicated. It
-c...
-
-Price:£17.00 Bottle
-
-Price:£204.00 Case of 12
-
-Buy Item
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 12
-
-Add
-
-Buy Item
-
-### Crozes-Hermitage, Domaine Pochon 2021
-
-In stock
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 12
-
-Add
-
 Low stock
 
 ##  Pauillac, Ulysse 2020
@@ -2734,55 +2560,20 @@ Bottle Case of 12
 
 Add
 
-##  Crozes-Hermitage, Guigal 2019
+##  Reyneke Organic Syrah, Stellenbosch 2020
 
-France  13.5% vol
-
-Syrah/Shiraz
-
-0 star rating 0 Reviews
-
-Full-flavoured northern Rhône syrah in a vintage that was remarkably good
-for...
-
-Price:£20.00 Bottle
-
-Price:£240.00 Case of 12
-
-Buy Item
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 12
-
-Add
-
-Buy Item
-
-### Crozes-Hermitage, Guigal 2019
-
-In stock
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 12
-
-Add
-
-##  The Society's 150th Anniversary Hermitage 2015
-
-France  14% vol
+South Africa  13% vol
 
 Syrah/Shiraz
 
-2.66667 star rating 3 Reviews
+4.5 star rating 2 Reviews
 
-Being given the keys to the cellars of the world-famous Paul Jaboulet Aîné
-is...
+Reyneke are global leaders in sustainable viticulture and their organic
+syrah...
 
-Price:£58.00 Bottle
+Price:£14.95 Bottle
 
-Price:£348.00 Case of 6
+Price:£89.50 Case of 6
 
 Buy Item
 
@@ -2794,7 +2585,7 @@ Add
 
 Buy Item
 
-### The Society's 150th Anniversary Hermitage 2015
+### Reyneke Organic Syrah, Stellenbosch 2020
 
 In stock
 
@@ -2804,114 +2595,7 @@ Bottle Case of 6
 
 Add
 
-New Vintage
-
-##  Glenelly Estate Reserve, Stellenbosch 2017
-
-South Africa  14.5% vol
-
-Cabernet Sauvignon
-
-0 star rating 0 Reviews
-
-Madame May de Lencquesaing left Château Pichon Comtesse in Bordeaux for this
-...
-
-Price:£18.00 Bottle
-
-Price:£108.00 Case of 6
-
-Buy Item
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 6
-
-Add
-
-Buy Item
-
-### Glenelly Estate Reserve, Stellenbosch 2017
-
-In stock
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 6
-
-Add
-
-##  Crozes-Hermitage Rouge Cuvee Louis Belle, Domaine Belle 2015
-
-France  13.5% vol
-
-Syrah/Shiraz
-
-4 star rating 1 Reviews
-
-This delicious northern Rhône red comes from the northern part of Crozes-
-Herm...
-
-Price:£26.00 Bottle
-
-Price:£312.00 Case of 12
-
-Buy Item
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 12
-
-Add
-
-Buy Item
-
-### Crozes-Hermitage Rouge Cuvee Louis Belle, Domaine Belle 2015
-
-In stock
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 12
-
-Add
-
-##  Chateau Teynac, Saint-Julien 2016
-
-France  13% vol
-
-Cabernet Sauvignon
-
-3.5 star rating 2 Reviews
-
-From a small family run property surrounded by famous names such as
-Beychevel...
-
-Price:£29.00 Bottle
-
-Price:£174.00 Case of 6
-
-Buy Item
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 6
-
-Add
-
-Buy Item
-
-### Chateau Teynac, Saint-Julien 2016
-
-In stock
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 6
-
-Add
-
-##  Chateau Peyrabon, Haut-Medoc 2014
+##  Chateau Bel Orme Tronquoy de Lalande, Haut-Medoc 2014
 
 France  13.5% vol
 
@@ -2919,12 +2603,12 @@ Cabernet Merlot
 
 0 star rating 0 Reviews
 
-This is a lovely example of a northern Médoc 2014 that benefitted from the
-In...
+A classic northern Médoc claret from a little known château with vineyards
+cl...
 
-Price:£17.00 Bottle
+Price:£19.00 Bottle
 
-Price:£204.00 Case of 12
+Price:£228.00 Case of 12
 
 Buy Item
 
@@ -2936,7 +2620,7 @@ Add
 
 Buy Item
 
-### Chateau Peyrabon, Haut-Medoc 2014
+### Chateau Bel Orme Tronquoy de Lalande, Haut-Medoc 2014
 
 In stock
 
@@ -2983,20 +2667,55 @@ Bottle Case of 6
 
 Add
 
-##  Chateau Haut-Batailley, Pauillac 2014
+##  Crozes-Hermitage, Domaine Pochon 2021
+
+France  12.5% vol
+
+Syrah/Shiraz
+
+0 star rating 0 Reviews
+
+Etienne Pochon makes a style of Crozes that is fruity and uncomplicated. It
+c...
+
+Price:£17.00 Bottle
+
+Price:£204.00 Case of 12
+
+Buy Item
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 12
+
+Add
+
+Buy Item
+
+### Crozes-Hermitage, Domaine Pochon 2021
+
+In stock
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 12
+
+Add
+
+##  Chateau Le Boscq, Saint-Estephe 2016
 
 France  13.5% vol
 
 Cabernet Merlot
 
-4 star rating 1 Reviews
+0 star rating 0 Reviews
 
-A lovely Pauillac, supremely elegant with great purity of expression and
-fine...
+The northern Médoc was particularly successful in 2016 and winemaker
+Frédéric...
 
-Price:£48.00 Bottle
+Price:£29.50 Bottle
 
-Price:£288.00 Case of 6
+Price:£177.00 Case of 6
 
 Buy Item
 
@@ -3008,13 +2727,120 @@ Add
 
 Buy Item
 
-### Chateau Haut-Batailley, Pauillac 2014
+### Chateau Le Boscq, Saint-Estephe 2016
 
 In stock
 
 1  2  3  4  5  6  7  8  9  10  11  12  Other
 
 Bottle Case of 6
+
+Add
+
+##  Crozes-Hermitage, Guigal 2019
+
+France  13.5% vol
+
+Syrah/Shiraz
+
+0 star rating 0 Reviews
+
+Full-flavoured northern Rhône syrah in a vintage that was remarkably good
+for...
+
+Price:£20.00 Bottle
+
+Price:£240.00 Case of 12
+
+Buy Item
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 12
+
+Add
+
+Buy Item
+
+### Crozes-Hermitage, Guigal 2019
+
+In stock
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 12
+
+Add
+
+Low stock
+
+##  Crozes-Hermitage, Domaine des Alexandrins 2016
+
+France  13.5% vol
+
+Syrah/Shiraz
+
+5 star rating 1 Reviews
+
+Elegance and finesse are uppermost in this syrah from the northern Rhône.
+201...
+
+Price:£22.00 Bottle
+
+Price:£132.00 Case of 6 (out of stock)
+
+Buy Item
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 6 (out of stock)
+
+Add
+
+Buy Item
+
+### Crozes-Hermitage, Domaine des Alexandrins 2016
+
+In stock
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 6 (out of stock)
+
+Add
+
+##  Crozes-Hermitage Rouge Cuvee Louis Belle, Domaine Belle 2015
+
+France  13.5% vol
+
+Syrah/Shiraz
+
+4 star rating 1 Reviews
+
+This delicious northern Rhône red comes from the northern part of Crozes-
+Herm...
+
+Price:£26.00 Bottle
+
+Price:£312.00 Case of 12
+
+Buy Item
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 12
+
+Add
+
+Buy Item
+
+### Crozes-Hermitage Rouge Cuvee Louis Belle, Domaine Belle 2015
+
+In stock
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 12
 
 Add
 
@@ -3053,16 +2879,16 @@ Bottle Case of 6
 
 Add
 
-##  Crozes-Hermitage, Domaine Rousset 2020
+##  Chateau Peyrabon, Haut-Medoc 2014
 
 France  13.5% vol
 
-Syrah/Shiraz
+Cabernet Merlot
 
 0 star rating 0 Reviews
 
-This Rhône estate draws its fruit from vines in the northern part of Crozes
-o...
+This is a lovely example of a northern Médoc 2014 that benefitted from the
+In...
 
 Price:£17.00 Bottle
 
@@ -3078,7 +2904,7 @@ Add
 
 Buy Item
 
-### Crozes-Hermitage, Domaine Rousset 2020
+### Chateau Peyrabon, Haut-Medoc 2014
 
 In stock
 
@@ -3088,22 +2914,20 @@ Bottle Case of 12
 
 Add
 
-Sale
+##  Chateau Teynac, Saint-Julien 2016
 
-##  Vergelegen Estate V Red, Stellenbosch 2006
-
-South Africa  14% vol
+France  13% vol
 
 Cabernet Sauvignon
 
-0 star rating 0 Reviews
+3.5 star rating 2 Reviews
 
-There’s no denying that Vergelegen’s V is an impressive wine – one that has
-a...
+From a small family run property surrounded by famous names such as
+Beychevel...
 
-Original price: £98.00 Current price:£80.00 Bottle
+Price:£29.00 Bottle
 
-Original price: £588.00 Current price:£480.00 Case of 6
+Price:£174.00 Case of 6
 
 Buy Item
 
@@ -3115,7 +2939,7 @@ Add
 
 Buy Item
 
-### Vergelegen Estate V Red, Stellenbosch 2006
+### Chateau Teynac, Saint-Julien 2016
 
 In stock
 
@@ -3160,20 +2984,20 @@ Bottle Case of 12
 
 Add
 
-##  Relais de Durfort-Vivens, Margaux 2016
+##  Chateau Cantemerle, Haut-Medoc 2016
 
-France  13.5% vol
+France  13% vol
 
-Cabernet Sauvignon
+Cabernet Merlot
 
-0 star rating 0 Reviews
+4 star rating 1 Reviews
 
-The second wine of classed growth Durfort-Vivens this has deep-purple colour
-...
+A wine with an unerring ability to express the character of the vintage and
+t...
 
-Price:£33.00 Bottle
+Price:£32.00 Bottle
 
-Price:£198.00 Case of 6
+Price:£192.00 Case of 6
 
 Buy Item
 
@@ -3185,7 +3009,7 @@ Add
 
 Buy Item
 
-### Relais de Durfort-Vivens, Margaux 2016
+### Chateau Cantemerle, Haut-Medoc 2016
 
 In stock
 
@@ -3232,20 +3056,20 @@ Bottle Case of 6
 
 Add
 
-##  Chateau Cantemerle, Haut-Medoc 2016
+##  Chateau Haut-Batailley, Pauillac 2014
 
-France  13% vol
+France  13.5% vol
 
 Cabernet Merlot
 
 4 star rating 1 Reviews
 
-A wine with an unerring ability to express the character of the vintage and
-t...
+A lovely Pauillac, supremely elegant with great purity of expression and
+fine...
 
-Price:£32.00 Bottle
+Price:£48.00 Bottle
 
-Price:£192.00 Case of 6
+Price:£288.00 Case of 6
 
 Buy Item
 
@@ -3257,7 +3081,7 @@ Add
 
 Buy Item
 
-### Chateau Cantemerle, Haut-Medoc 2016
+### Chateau Haut-Batailley, Pauillac 2014
 
 In stock
 
@@ -3269,125 +3093,20 @@ Add
 
 Sale
 
-##  Vergelegen Estate V Red, Stellenbosch 2012
-
-South Africa  14.5% vol
-
-Cabernet Sauvignon
-
-0 star rating 0 Reviews
-
-The 2012 V is a real showstopper, a wine that’ll make you sit up and take
-not...
-
-Original price: £105.00 Current price:£87.50 Bottle
-
-Original price: £630.00 Current price:£525.00 Case of 6
-
-Buy Item
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 6
-
-Add
-
-Buy Item
-
-### Vergelegen Estate V Red, Stellenbosch 2012
-
-In stock
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 6
-
-Add
-
-##  Napanook Napa Valley 2012
-
-USA  14.5% vol
-
-Cabernet Sauvignon
-
-0 star rating 0 Reviews
-
-The second wine of the famous Dominus estate, this is Napa cabernet with a
-Fr...
-
-Price:£55.00 Bottle
-
-Price:£660.00 Case of 12
-
-Buy Item
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 12
-
-Add
-
-Buy Item
-
-### Napanook Napa Valley 2012
-
-In stock
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 12
-
-Add
-
-##  The Society's Exhibition Haut-Medoc 2018
-
-France  14.5% vol
-
-Cabernet Merlot
-
-2 star rating 2 Reviews
-
-With deep red colour, sweet spicy oak and berry fruit on the nose, and
-creamy...
-
-Price:£16.50 Bottle
-
-Price:£198.00 Case of 12
-
-Buy Item
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 12
-
-Add
-
-Buy Item
-
-### The Society's Exhibition Haut-Medoc 2018
-
-In stock
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 12
-
-Add
-
-##  Kanonkop Estate Cabernet Sauvignon, Simonsberg-Stellenbosch 2016
+##  Vergelegen Estate V Red, Stellenbosch 2006
 
 South Africa  14% vol
 
 Cabernet Sauvignon
 
-4 star rating 6 Reviews
+0 star rating 0 Reviews
 
-Possibly best known for its pinotage, Kanonkop maintains a stellar
-reputation...
+There’s no denying that Vergelegen’s V is an impressive wine – one that has
+a...
 
-Price:£34.00 Bottle
+Original price: £98.00 Current price:£80.00 Bottle
 
-Price:£204.00 Case of 6
+Original price: £588.00 Current price:£480.00 Case of 6
 
 Buy Item
 
@@ -3399,7 +3118,7 @@ Add
 
 Buy Item
 
-### Kanonkop Estate Cabernet Sauvignon, Simonsberg-Stellenbosch 2016
+### Vergelegen Estate V Red, Stellenbosch 2006
 
 In stock
 
@@ -3446,20 +3165,20 @@ Bottle Case of 12
 
 Add
 
-##  Delheim Grand Reserve, Stellenbosch 2018
+##  The Society's 150th Anniversary Hermitage 2015
 
-South Africa  14.5% vol
+France  14% vol
 
-Cabernet Sauvignon
+Syrah/Shiraz
 
-0 star rating 0 Reviews
+2.66667 star rating 3 Reviews
 
-Delheim's flagship red is a fine and age-worthy cabernet-led blend, this the
-...
+Being given the keys to the cellars of the world-famous Paul Jaboulet Aîné
+is...
 
-Price:£26.00 Bottle
+Price:£58.00 Bottle
 
-Price:£156.00 Case of 6
+Price:£348.00 Case of 6
 
 Buy Item
 
@@ -3471,7 +3190,7 @@ Add
 
 Buy Item
 
-### Delheim Grand Reserve, Stellenbosch 2018
+### The Society's 150th Anniversary Hermitage 2015
 
 In stock
 
@@ -3481,7 +3200,77 @@ Bottle Case of 6
 
 Add
 
-New
+Sale
+
+##  Vergelegen Estate V Red, Stellenbosch 2012
+
+South Africa  14.5% vol
+
+Cabernet Sauvignon
+
+0 star rating 0 Reviews
+
+The 2012 V is a real showstopper, a wine that’ll make you sit up and take
+not...
+
+Original price: £105.00 Current price:£87.50 Bottle
+
+Original price: £630.00 Current price:£525.00 Case of 6
+
+Buy Item
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 6
+
+Add
+
+Buy Item
+
+### Vergelegen Estate V Red, Stellenbosch 2012
+
+In stock
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 6
+
+Add
+
+##  Relais de Durfort-Vivens, Margaux 2016
+
+France  13.5% vol
+
+Cabernet Sauvignon
+
+0 star rating 0 Reviews
+
+The second wine of classed growth Durfort-Vivens this has deep-purple colour
+...
+
+Price:£33.00 Bottle
+
+Price:£198.00 Case of 6
+
+Buy Item
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 6
+
+Add
+
+Buy Item
+
+### Relais de Durfort-Vivens, Margaux 2016
+
+In stock
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 6
+
+Add
 
 ##  Frank Phelan, Saint-Estephe 2018
 
@@ -3518,20 +3307,55 @@ Bottle Case of 6
 
 Add
 
-##  Minimalist 'Stars in the Dark', Cape Agulhas 2022
+##  Crozes-Hermitage, Domaine Rousset 2020
 
-South Africa  14% vol
+France  13.5% vol
 
 Syrah/Shiraz
 
 0 star rating 0 Reviews
 
-Sam Lambson is one of the true rising stars of the Cape. His 'Stars in the
-Da...
+This Rhône estate draws its fruit from vines in the northern part of Crozes
+o...
 
-Price:£29.00 Bottle
+Price:£17.00 Bottle
 
-Price:£174.00 Case of 6
+Price:£204.00 Case of 12
+
+Buy Item
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 12
+
+Add
+
+Buy Item
+
+### Crozes-Hermitage, Domaine Rousset 2020
+
+In stock
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 12
+
+Add
+
+##  Kanonkop Estate Cabernet Sauvignon, Simonsberg-Stellenbosch 2016
+
+South Africa  14% vol
+
+Cabernet Sauvignon
+
+4 star rating 6 Reviews
+
+Possibly best known for its pinotage, Kanonkop maintains a stellar
+reputation...
+
+Price:£34.00 Bottle
+
+Price:£204.00 Case of 6
 
 Buy Item
 
@@ -3543,13 +3367,83 @@ Add
 
 Buy Item
 
-### Minimalist 'Stars in the Dark', Cape Agulhas 2022
+### Kanonkop Estate Cabernet Sauvignon, Simonsberg-Stellenbosch 2016
 
 In stock
 
 1  2  3  4  5  6  7  8  9  10  11  12  Other
 
 Bottle Case of 6
+
+Add
+
+##  The Society's Exhibition Haut-Medoc 2018
+
+France  14.5% vol
+
+Cabernet Merlot
+
+2 star rating 2 Reviews
+
+With deep red colour, sweet spicy oak and berry fruit on the nose, and
+creamy...
+
+Price:£16.50 Bottle
+
+Price:£198.00 Case of 12
+
+Buy Item
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 12
+
+Add
+
+Buy Item
+
+### The Society's Exhibition Haut-Medoc 2018
+
+In stock
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 12
+
+Add
+
+##  Napanook Napa Valley 2012
+
+USA  14.5% vol
+
+Cabernet Sauvignon
+
+0 star rating 0 Reviews
+
+The second wine of the famous Dominus estate, this is Napa cabernet with a
+Fr...
+
+Price:£55.00 Bottle
+
+Price:£660.00 Case of 12
+
+Buy Item
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 12
+
+Add
+
+Buy Item
+
+### Napanook Napa Valley 2012
+
+In stock
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 12
 
 Add
 
@@ -3590,263 +3484,16 @@ Bottle Case of 12
 
 Add
 
-##  Chateau d'Issan, Margaux 2014
+##  Minimalist 'Stars in the Dark', Cape Agulhas 2022
 
-France  13% vol
-
-Cabernet Merlot
-
-3 star rating 1 Reviews
-
-A blend of 77% cabernet sauvignon and 23% merlot, this sophisticated and
-styl...
-
-Price:£54.00 Bottle
-
-Price:£324.00 Case of 6
-
-Buy Item
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 6
-
-Add
-
-Buy Item
-
-### Chateau d'Issan, Margaux 2014
-
-In stock
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 6
-
-Add
-
-##  Napanook Napa Valley 2014
-
-USA  14.5% vol
-
-Cabernet Sauvignon
-
-0 star rating 0 Reviews
-
-The second wine of Napa estate Dominus, this offers a great opportunity to
-tr...
-
-Price:£55.00 Bottle
-
-Price:£660.00 Case of 12
-
-Buy Item
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 12
-
-Add
-
-Buy Item
-
-### Napanook Napa Valley 2014
-
-In stock
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 12
-
-Add
-
-##  Duluc de Branaire-Ducru, Saint-Julien 2016
-
-France  13.5% vol
-
-Cabernet Merlot
-
-0 star rating 0 Reviews
-
-An excellent Bordeaux 'second wine' from a property that is making
-increasing...
-
-Price:£28.50 Bottle
-
-Price:£342.00 Case of 12
-
-Buy Item
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 12
-
-Add
-
-Buy Item
-
-### Duluc de Branaire-Ducru, Saint-Julien 2016
-
-In stock
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 12
-
-Add
-
-##  Chateau Giscours, Margaux 2012
-
-France  13.5% vol
-
-Cabernet Merlot
-
-0 star rating 0 Reviews
-
-One of the most attractive wines in Margaux this year. Seductively rich and
-t...
-
-Price:£55.00 Bottle
-
-Price:£660.00 Case of 12
-
-Buy Item
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 12
-
-Add
-
-Buy Item
-
-### Chateau Giscours, Margaux 2012
-
-In stock
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 12
-
-Add
-
-New
-
-##  Crozes-Hermitage Les Picaudieres, Domaine Rousset 2020
-
-France  14% vol
+South Africa  14% vol
 
 Syrah/Shiraz
 
-5 star rating 1 Reviews
-
-This comes from the granite slopes behind Hermitage and always makes a more
-s...
-
-Price:£24.00 Bottle
-
-Price:£144.00 Case of 6
-
-Buy Item
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 6
-
-Add
-
-Buy Item
-
-### Crozes-Hermitage Les Picaudieres, Domaine Rousset 2020
-
-In stock
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 6
-
-Add
-
-##  Chateau Coutelin Merville, Saint-Estephe 2014
-
-France  14% vol
-
-Cabernet Merlot
-
-3 star rating 1 Reviews
-
-2014 was an exceptional vintage in Saint-Estèphe, and this classic left bank
-...
-
-Price:£21.00 Bottle
-
-Price:£252.00 Case of 12
-
-Buy Item
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 12
-
-Add
-
-Buy Item
-
-### Chateau Coutelin Merville, Saint-Estephe 2014
-
-In stock
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 12
-
-Add
-
-##  Chateau Lynch-Moussas, Pauillac 2016
-
-France  13.5% vol
-
-Cabernet Sauvignon
-
 0 star rating 0 Reviews
 
-A high proportion of cabernet sauvignon (83%) in the 2016 blend, along with
-1...
-
-Price:£39.00 Bottle
-
-Price:£234.00 Case of 6
-
-Buy Item
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 6
-
-Add
-
-Buy Item
-
-### Chateau Lynch-Moussas, Pauillac 2016
-
-In stock
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 6
-
-Add
-
-##  L'Esprit de Chevalier Rouge, Pessac-Leognan 2016
-
-France  13% vol
-
-Cabernet Sauvignon
-
-4 star rating 2 Reviews
-
-L'Esprit is the second wine of Domaine de Chevalier, one of the leading
-light...
+Sam Lambson is one of the true rising stars of the Cape. His 'Stars in the
+Da...
 
 Price:£29.00 Bottle
 
@@ -3862,79 +3509,7 @@ Add
 
 Buy Item
 
-### L'Esprit de Chevalier Rouge, Pessac-Leognan 2016
-
-In stock
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 6
-
-Add
-
-##  Chateau Pierbone, Haut-Medoc 2014
-
-France  12.5% vol
-
-Cabernet Merlot
-
-2 star rating 3 Reviews
-
-This is benchmark, old-school (in the best sense of the word) claret,
-display...
-
-Price:£14.50 Bottle
-
-Price:£174.00 Case of 12
-
-Buy Item
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 12
-
-Add
-
-Buy Item
-
-### Chateau Pierbone, Haut-Medoc 2014
-
-In stock
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 12
-
-Add
-
-Sale
-
-##  Hermitage, Domaine Marc Sorrel 2020
-
-France  14% vol
-
-Syrah/Shiraz
-
-0 star rating 0 Reviews
-
-The 2020s here were made by Marc Sorrel’s son Guillaume, who definitely has
-a...
-
-Original price: £99.00 Current price:£89.00 Bottle
-
-Original price: £594.00 Current price:£534.00 Case of 6
-
-Buy Item
-
-1  2  3  4  5  6  7  8  9  10  11  12  Other
-
-Bottle Case of 6
-
-Add
-
-Buy Item
-
-### Hermitage, Domaine Marc Sorrel 2020
+### Minimalist 'Stars in the Dark', Cape Agulhas 2022
 
 In stock
 
@@ -3980,20 +3555,55 @@ Bottle Case of 12
 
 Add
 
-##  Minimalist 'No Place Like Home', Elgin 2022
+##  Napanook Napa Valley 2014
 
-South Africa  14% vol
+USA  14.5% vol
 
-Syrah/Shiraz
+Cabernet Sauvignon
 
 0 star rating 0 Reviews
 
-Sam Lamson, one of the most exciting producers in South Africa, produces
-eleg...
+The second wine of Napa estate Dominus, this offers a great opportunity to
+tr...
 
-Price:£29.00 Bottle
+Price:£55.00 Bottle
 
-Price:£174.00 Case of 6
+Price:£660.00 Case of 12
+
+Buy Item
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 12
+
+Add
+
+Buy Item
+
+### Napanook Napa Valley 2014
+
+In stock
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 12
+
+Add
+
+##  Delheim Grand Reserve, Stellenbosch 2018
+
+South Africa  14.5% vol
+
+Cabernet Sauvignon
+
+0 star rating 0 Reviews
+
+Delheim's flagship red is a fine and age-worthy cabernet-led blend, this the
+...
+
+Price:£26.00 Bottle
+
+Price:£156.00 Case of 6
 
 Buy Item
 
@@ -4005,7 +3615,44 @@ Add
 
 Buy Item
 
-### Minimalist 'No Place Like Home', Elgin 2022
+### Delheim Grand Reserve, Stellenbosch 2018
+
+In stock
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 6
+
+Add
+
+New
+
+##  Crozes-Hermitage Les Picaudieres, Domaine Rousset 2020
+
+France  14% vol
+
+Syrah/Shiraz
+
+5 star rating 1 Reviews
+
+This comes from the granite slopes behind Hermitage and always makes a more
+s...
+
+Price:£24.00 Bottle
+
+Price:£144.00 Case of 6
+
+Buy Item
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 6
+
+Add
+
+Buy Item
+
+### Crozes-Hermitage Les Picaudieres, Domaine Rousset 2020
 
 In stock
 
@@ -4047,6 +3694,357 @@ In stock
 1  2  3  4  5  6  7  8  9  10  11  12  Other
 
 Bottle Case of 12
+
+Add
+
+##  Chateau d'Issan, Margaux 2014
+
+France  13% vol
+
+Cabernet Merlot
+
+3 star rating 1 Reviews
+
+A blend of 77% cabernet sauvignon and 23% merlot, this sophisticated and
+styl...
+
+Price:£54.00 Bottle
+
+Price:£324.00 Case of 6
+
+Buy Item
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 6
+
+Add
+
+Buy Item
+
+### Chateau d'Issan, Margaux 2014
+
+In stock
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 6
+
+Add
+
+##  Van Loggerenberg 'Graft', Polkadraai Hills 2022
+
+South Africa  14% vol
+
+Syrah/Shiraz
+
+0 star rating 0 Reviews
+
+Lukas' 'Graft' is quickly becoming one of South Africa's most sought-after...
+
+Price:£33.00 Bottle
+
+Price:£198.00 Case of 6
+
+Buy Item
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 6
+
+Add
+
+Buy Item
+
+### Van Loggerenberg 'Graft', Polkadraai Hills 2022
+
+In stock
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 6
+
+Add
+
+##  Chateau Lynch-Moussas, Pauillac 2016
+
+France  13.5% vol
+
+Cabernet Sauvignon
+
+0 star rating 0 Reviews
+
+A high proportion of cabernet sauvignon (83%) in the 2016 blend, along with
+1...
+
+Price:£39.00 Bottle
+
+Price:£234.00 Case of 6
+
+Buy Item
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 6
+
+Add
+
+Buy Item
+
+### Chateau Lynch-Moussas, Pauillac 2016
+
+In stock
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 6
+
+Add
+
+##  Duluc de Branaire-Ducru, Saint-Julien 2016
+
+France  13.5% vol
+
+Cabernet Merlot
+
+0 star rating 0 Reviews
+
+An excellent Bordeaux 'second wine' from a property that is making
+increasing...
+
+Price:£28.50 Bottle
+
+Price:£342.00 Case of 12
+
+Buy Item
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 12
+
+Add
+
+Buy Item
+
+### Duluc de Branaire-Ducru, Saint-Julien 2016
+
+In stock
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 12
+
+Add
+
+##  Les Fiefs de Lagrange, Saint-Julien 2016
+
+France  13.5% vol
+
+Cabernet Merlot
+
+0 star rating 0 Reviews
+
+The second wine of cru classé Château Lagrange, this bears more than a
+passin...
+
+Price:£29.00 Bottle
+
+Price:£348.00 Case of 12
+
+Buy Item
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 12
+
+Add
+
+Buy Item
+
+### Les Fiefs de Lagrange, Saint-Julien 2016
+
+In stock
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 12
+
+Add
+
+##  Chateau Coutelin Merville, Saint-Estephe 2014
+
+France  14% vol
+
+Cabernet Merlot
+
+3 star rating 1 Reviews
+
+2014 was an exceptional vintage in Saint-Estèphe, and this classic left bank
+...
+
+Price:£21.00 Bottle
+
+Price:£252.00 Case of 12
+
+Buy Item
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 12
+
+Add
+
+Buy Item
+
+### Chateau Coutelin Merville, Saint-Estephe 2014
+
+In stock
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 12
+
+Add
+
+##  Chateau Cos Labory, Saint-Estephe 2014
+
+France  13.5% vol
+
+Cabernet Sauvignon
+
+2.66667 star rating 6 Reviews
+
+Saint-Estèphe enjoyed a particularly good 2014 vintage, as proven by the
+impr...
+
+Price:£34.00 Bottle
+
+Price:£204.00 Case of 6
+
+Buy Item
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 6
+
+Add
+
+Buy Item
+
+### Chateau Cos Labory, Saint-Estephe 2014
+
+In stock
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 6
+
+Add
+
+Sale
+
+##  Hermitage, Domaine Marc Sorrel 2020
+
+France  14% vol
+
+Syrah/Shiraz
+
+0 star rating 0 Reviews
+
+The 2020s here were made by Marc Sorrel’s son Guillaume, who definitely has
+a...
+
+Original price: £99.00 Current price:£89.00 Bottle
+
+Original price: £594.00 Current price:£534.00 Case of 6
+
+Buy Item
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 6
+
+Add
+
+Buy Item
+
+### Hermitage, Domaine Marc Sorrel 2020
+
+In stock
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 6
+
+Add
+
+##  Chateau Giscours, Margaux 2012
+
+France  13.5% vol
+
+Cabernet Merlot
+
+0 star rating 0 Reviews
+
+One of the most attractive wines in Margaux this year. Seductively rich and
+t...
+
+Price:£55.00 Bottle
+
+Price:£660.00 Case of 12
+
+Buy Item
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 12
+
+Add
+
+Buy Item
+
+### Chateau Giscours, Margaux 2012
+
+In stock
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 12
+
+Add
+
+##  Minimalist 'No Place Like Home', Elgin 2022
+
+South Africa  14% vol
+
+Syrah/Shiraz
+
+0 star rating 0 Reviews
+
+Sam Lamson, one of the most exciting producers in South Africa, produces
+eleg...
+
+Price:£29.00 Bottle
+
+Price:£174.00 Case of 6
+
+Buy Item
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 6
+
+Add
+
+Buy Item
+
+### Minimalist 'No Place Like Home', Elgin 2022
+
+In stock
+
+1  2  3  4  5  6  7  8  9  10  11  12  Other
+
+Bottle Case of 6
 
 Add
 
