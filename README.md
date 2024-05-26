@@ -2,6 +2,7 @@
 # Google Search Chat
 ## Introduction
 This project is designed to fetch, load, and transform web content based on user queries, and subsequently process these queries using a language model. It utilizes the Google Custom Search API to retrieve URLs (10) and leverages the LangChain library for text processing and query answering.
+***Update:*** Images can now be ingested for search by using the GPT4o model.
 
 
 ### Configuring Environment Variables
